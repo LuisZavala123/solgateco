@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vista", "vista\vista.csproj", "{F3474A10-F769-4FDF-8330-06993014A99C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "movimiento", "movimiento\movimiento.csproj", "{05E54AD6-2CA5-442D-9FB7-294E6361198D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gateco", "gateco\gateco.csproj", "{52195D8C-0BF8-4343-AF35-00DA855B2B8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3474A10-F769-4FDF-8330-06993014A99C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3474A10-F769-4FDF-8330-06993014A99C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3474A10-F769-4FDF-8330-06993014A99C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3474A10-F769-4FDF-8330-06993014A99C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05E54AD6-2CA5-442D-9FB7-294E6361198D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05E54AD6-2CA5-442D-9FB7-294E6361198D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05E54AD6-2CA5-442D-9FB7-294E6361198D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05E54AD6-2CA5-442D-9FB7-294E6361198D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52195D8C-0BF8-4343-AF35-00DA855B2B8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52195D8C-0BF8-4343-AF35-00DA855B2B8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52195D8C-0BF8-4343-AF35-00DA855B2B8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52195D8C-0BF8-4343-AF35-00DA855B2B8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
